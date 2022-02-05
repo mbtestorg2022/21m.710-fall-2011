@@ -11,10 +11,65 @@ Papers
 
 Each paper should be 8–10 pages.
 
-| PAPER TOPICS | STUDENT EXAMPLES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Paper 1: {{< br >}}{{< br >}} _Discuss a professional production of a play that the student has read before he or she saw it. Discuss what was available through the production that was not available through the reading._ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Discussions of the play "Next Fall" by Geoffrey Nauffts. {{< br >}}{{< br >}} [Student #1 (PDF)]({{< baseurl >}}/resources/mit21m_710f11_next_fall) {{< br >}}{{< br >}} [Student #2 (PDF)]({{< baseurl >}}/resources/mit21m_710f11_paper_1) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Paper 2: {{< br >}}{{< br >}} _Discuss a different play by a playwright we have already read. Analyze the script with the principles that have been discussed in class._ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Discussion of the play "The Wild Duck" by Henrik Ibsen (PDF)]({{< baseurl >}}/resources/mit21m_710f11_wild_duck) {{< br >}}{{< br >}} [Discussion of the play "Roundheads and Peakheads" by Bertolt Brecht (PDF)]({{< baseurl >}}/resources/mit21m_710f11_paper_2) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PAPER TOPICS
+{{< thclose >}}
+{{< thopen >}}
+STUDENT EXAMPLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Paper 1:
+
+_Discuss a professional production of a play that the student has read before he or she saw it. Discuss what was available through the production that was not available through the reading._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussions of the play "Next Fall" by Geoffrey Nauffts.
+
+[Student #1 (PDF)]({{< baseurl >}}/resources/mit21m_710f11_next_fall)
+
+[Student #2 (PDF)]({{< baseurl >}}/resources/mit21m_710f11_paper_1)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Paper 2:
+
+_Discuss a different play by a playwright we have already read. Analyze the script with the principles that have been discussed in class._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Discussion of the play "The Wild Duck" by Henrik Ibsen (PDF)]({{< baseurl >}}/resources/mit21m_710f11_wild_duck)
+
+[Discussion of the play "Roundheads and Peakheads" by Bertolt Brecht (PDF)]({{< baseurl >}}/resources/mit21m_710f11_paper_2)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Final Project
 -------------
