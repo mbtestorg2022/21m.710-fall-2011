@@ -4,6 +4,7 @@ description: Example of student work for a costume design project for Jean Genet
   The Blacks.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-710-script-analysis-fall-2011/503a5af65b47cc82597bb1446e71064a_MIT21M_710F11_Paper_3.pdf
 file_type: application/pdf
+parent_uid: 3a8d9791-ccb2-6122-e2f9-28aa70a6ad11
 resourcetype: Document
 title: Third Paper
 uid: 503a5af6-5b47-cc82-597b-b1446e71064a
